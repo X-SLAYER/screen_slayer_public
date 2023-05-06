@@ -31,7 +31,7 @@ sudo apt-get install -y gir1.2-appindicator3-0.1
 
 ## Preview
 
-<video src='assets/hero.mp4' width="1000"></video>
+https://user-images.githubusercontent.com/22800380/236635070-68a38684-3c34-42c4-8223-c14caeaefb66.mp4
 
 ## Features
 
