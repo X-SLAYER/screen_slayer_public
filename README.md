@@ -1,2 +1,9 @@
-# screen_slayer_public
-The ultimate screenshot app that takes your images to the next level
+# Screen SLAYER
+
+This repository serves as a place for bug reports, feature requests, and general discussion.
+
+## Platform Support
+
+| Linux | macOS | Windows |
+| :---: | :---: | :-----: |
+|   ✅  |   ❌  |    ✅   |
