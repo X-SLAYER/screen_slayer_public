@@ -1,13 +1,15 @@
 # Screen SLAYER
-<img src='logo.png' height='120'/>
+
+<img src='assets/logo.png' height='120'/>
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
 ### Downloads:
-| Platform | Version | Link                                                                                                                         |
-| -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Windows  | ✅   | [Download (.exe)]()  |
-| Mac      |  ❌   | until i buy a mac  |
-| Linux    | ✅   | [Download (.deb)]()  |
+
+| Platform | Version | Link                |
+| -------- | ------- | ------------------- |
+| Windows  | ✅      | [Download (.exe)]() |
+| Mac      | ❌      | until i buy a mac   |
+| Linux    | ✅      | [Download (.deb)]() |
 
 ## Installation
 
@@ -20,10 +22,16 @@ Run the following command
 ```
 sudo apt-get install appindicator3-0.1 libappindicator3-dev
 ```
+
 OR
+
 ```
 sudo apt-get install -y gir1.2-appindicator3-0.1
 ```
+
+## Preview
+
+<video src='assets/hero.mp4' width="1000"></video>
 
 ## Features
 
