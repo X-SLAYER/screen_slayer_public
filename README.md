@@ -2,11 +2,12 @@
 <img src='logo.png' height='120'/>
 This repository serves as a place for bug reports, feature requests, and general discussion.
 
-## Platform Support
-
-| Linux | macOS | Windows |
-| :---: | :---: | :-----: |
-|   ✅  |   ❌  |    ✅   |
+### Downloads:
+| Platform | Version | Link                                                                                                                         |
+| -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | ✅   | [Download (.exe)](https://github.com/X-SLAYER/website-cloner-dart/releases/download/Latest/website_cloner-1.0.0+1-windows.exe)  |
+| Mac      |  ❌   | until i buy a mac  |
+| Linux    | ✅   | [Download (.deb)](https://github.com/X-SLAYER/website-cloner-dart/releases/download/Latest/website_cloner-1.0.0+1-linux.deb)  |
 
 ## Installation
 
