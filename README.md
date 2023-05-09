@@ -7,9 +7,9 @@ This repository serves as a place for bug reports, feature requests, and general
 
 | Platform | Version | Link                |
 | -------- | ------- | ------------------- |
-| Windows  | ✅      | [Download (.exe)]() |
+| Windows  | ✅      | [Download (.exe)](https://github.com/X-SLAYER/screen_slayer_public/releases/download/v0.0.1/screen_slayer_release-1.0.0+1-windows.exe) |
 | Mac      | ❌      | until i buy a mac   |
-| Linux    | ✅      | [Download (.deb)]() |
+| Linux    | ✅      | [Download (.deb)](https://github.com/X-SLAYER/screen_slayer_public/releases/download/v0.0.1/screen_slayer.deb) |
 
 ## Installation
 
