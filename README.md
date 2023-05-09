@@ -13,20 +13,12 @@ This repository serves as a place for bug reports, feature requests, and general
 
 ## Installation
 
-### ⚠️ Linux requirements
+### Linux
 
-- `appindicator3-0.1`
-
-Run the following command
+Run the following command after downloading the .deb file
 
 ```
-sudo apt-get install appindicator3-0.1 libappindicator3-dev
-```
-
-OR
-
-```
-sudo apt-get install -y gir1.2-appindicator3-0.1
+sudo dpkg -i screen_slayer.deb
 ```
 
 ## Preview
