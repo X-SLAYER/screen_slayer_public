@@ -28,11 +28,11 @@ https://user-images.githubusercontent.com/22800380/236635070-68a38684-3c34-42c4-
 ## Features
 
 - [x] Add Gradient backgrounds
-- [x] Add background images / custom on your own
+- [x] Add background images/custom on your own
 - [x] Add spacing padding/insets to your background.
 - [x] Add curved corners
-- [x] Customize the shadow (position, blur, color)
+- [x] Customize the shadow (position, blur, colour)
 - [x] Resized to the perfect ratio to fit your social media's recommended image size
-- [x] Save used presets to use it again later
-- [x] Add watermark
+- [x] Save used presets to use again later
+- [x] Add a watermark
 - [ ] Custom drawing
